@@ -1,0 +1,12 @@
+{
+  "id": "/ll-restorations/",
+  "name": "L.L Restorations",
+  "short_name": "LL Restorations",
+  "description": "A personal woodwork catalogue for L.L Restorations. Organise shelves, toilet roll holders, spice racks, cutting boards, keychains, book placeholders and key holders.",
+  "start_url": "/ll-restorations/",
+  "scope": "/ll-restorations/",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#faf7f2",
+  "theme_color": "#30251f"
+}
